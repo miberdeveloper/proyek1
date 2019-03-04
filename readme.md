@@ -27,7 +27,7 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
 
 - [Git Remote](https://www.petanikode.com/git-remote)
 - [https://readthedocs.org/projects/tutorial-git/downloads/pdf/latest/](https://readthedocs.org/projects/tutorial-git/downloads/pdf/latest/)
-- [Youtube](youtube.com)
+- [Petani Kode](https://www.petanikode.com/tutorial/git/)
 
 ---
 
@@ -43,4 +43,8 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
 3. Setelah selesai di clone dan remote, langkah selanjutnya adalah masuk ke file yang sudah di clone dan update composernya
    ```
     $ composer update
+   ```
+4. Menjalankan laravel
+   ```
+    $ php artisan serve
    ```
