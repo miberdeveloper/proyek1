@@ -28,6 +28,7 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
 - [Git Remote](https://www.petanikode.com/git-remote)
 - [https://readthedocs.org/projects/tutorial-git/downloads/pdf/latest/](https://readthedocs.org/projects/tutorial-git/downloads/pdf/latest/)
 - [Petani Kode](https://www.petanikode.com/tutorial/git/)
+- [Github Cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ---
 
