@@ -16,8 +16,9 @@ Pada mata kuliah ini kita akan membuat sebuah program **koperasi**, dimana di da
 
 ### Referensi
 
-- [Composer Website]([https://link](https://getcomposer.org/))
-- [Referensi lainnya]([https://link](http://javawebmedia.com/blog/cara-install-composer-di-windows/))
+- [Composer Website](https://getcomposer.org/)
+- [Referensi 1](http://javawebmedia.com/blog/cara-install-composer-di-windows/)
+- [Referensi 2](https://jagowebdev.com/cara-install-menjalankan-composer-di-windows/)
 
 ## Melakukan remote dan clone file
 
@@ -25,8 +26,8 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
 
 ### Referensi
 
-- [Git Remote](https://www.petanikode.com/git-remote)
-- [https://readthedocs.org/projects/tutorial-git/downloads/pdf/latest/](https://readthedocs.org/projects/tutorial-git/downloads/pdf/latest/)
+- [Tutorial Git Remote](https://www.petanikode.com/git-remote)
+- [Tutorial Github](https://readthedocs.org/projects/tutorial-git/downloads/pdf/latest/)
 - [Petani Kode](https://www.petanikode.com/tutorial/git/)
 - [Github Cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
@@ -49,3 +50,6 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
    ```
     $ php artisan serve
    ```
+
+    #SemangatProyek :fire:
+    #NgodingItuMudah :boom::boom::boom:
