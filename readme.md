@@ -36,11 +36,11 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
 ## Step by step untuk clone repository
 1. Melkaukan clone repository dan secara otomatis repository/file akan tersimpan otomatis pada lokasi yang sudah ditentukan
     ```
-    $ git clone https://github.com/agusprasetyo30/proyek-mi2b.git
+    $ git clone https://github.com/miberdeveloper/proyek1.git
     ```
 2. Melakukan remote pada repository yang di clone
    ```
-    $ git remote add nama_mahasiswa https://github.com/agusprasetyo30/proyek-mi2b.git
+    $ git remote add nama_mahasiswa https://github.com/miberdeveloper/proyek1.git
    ```
 3. Setelah selesai di clone dan remote, langkah selanjutnya adalah masuk ke file yang sudah di clone dan update composernya
    ```
@@ -52,4 +52,5 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
    ```
 
     #SemangatProyek :fire:
+    
     #NgodingItuMudah :boom::boom::boom:
