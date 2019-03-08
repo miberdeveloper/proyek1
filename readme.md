@@ -34,19 +34,26 @@ Remote file dan clone digunakan untuk mengambil file yang terdapat pada **github
 ---
 
 ## Step by step untuk clone repository
-1. Melkaukan clone repository dan secara otomatis repository/file akan tersimpan otomatis pada lokasi yang sudah ditentukan
-    ```
-    $ git clone https://github.com/miberdeveloper/proyek1.git
-    ```
-2. Melakukan remote pada repository yang di clone
+
+1. Membuat repository lokal
    ```
-    $ git remote add nama_mahasiswa https://github.com/miberdeveloper/proyek1.git
+    $ git init
    ```
-3. Setelah selesai di clone dan remote, langkah selanjutnya adalah masuk ke file yang sudah di clone dan update composernya
+
+2. Melakukan clone repository dan secara otomatis repository/file akan tersimpan otomatis pada lokasi yang sudah ditentukan
+    ```
+    $ git clone -b worksheet_ver https://github.com/miberdeveloper/proyek1.git
+    ```
+3. Melakukan remote pada repository yang di clone
+   ```
+    $ git remote add -t worksheet_ver nama_mahasiswa https://github.com/miberdeveloper/proyek1.git
+   ```
+4. Setelah selesai di clone dan remote, langkah selanjutnya adalah masuk ke file yang sudah di clone dan update composernya
+   > Peringatan : Pastikan composer sudah terinstall 
    ```
     $ composer update
    ```
-4. Menjalankan laravel
+5. Menjalankan laravel
    ```
     $ php artisan serve
    ```
